@@ -1,7 +1,7 @@
 Ma che ci fai qua?
 
-Vabbè visto che ci sei guardati le mie repo brutte.
-(Ho le mie provate, però mi vergono di mostratele, I'm shy)
+Visto che ci sei guardati le mie repo brutte.
+(Ho le mie private, però mi vergono di mostratele, I'm shy)
 
 <!--
 **fvelo/fvelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
